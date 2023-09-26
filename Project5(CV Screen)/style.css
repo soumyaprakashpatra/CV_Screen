@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(200, 237, 245);
+}
+.column
+{
+    margin: 0 auto;
+    text-align: center;
+    
+}
+button{
+    background-color: rgb(98, 119, 119);
+    color: rgb(246, 240, 240);
+    width: 200px;
+    height: 23px;
+    margin: 0 auto;
+    font-weight: bold;
+}
